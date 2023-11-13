@@ -1,0 +1,4 @@
+
+
+int  tentimes(int *a)
+{
